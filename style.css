@@ -32,7 +32,6 @@ ul{
 }
 li{
     display-flex:1;
-    line-height:.7rem;
     text-align:center;
     padding-left:.3rem;
     padding-right:.3rem;
